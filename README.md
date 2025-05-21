@@ -13,7 +13,7 @@ short_description: A minimal Node.js + Gemini-powered web app to analyze text.
 # 🕵️ FakeDetect - OSINT Intelligence Analyzer
 
 FakeDetect is a real-time Open Source Intelligence (OSINT) web application that uses Google Gemini AI to analyze and visualize multilingual social media and news content.
-
+https://huggingface.co/spaces/Basti1110/FakeDetect
 ## ✨ Features
 
 - 🧠 AI-powered content interpretation using Gemini 1.5 Flash
