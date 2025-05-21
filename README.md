@@ -35,6 +35,7 @@ FakeDetect is a real-time Open Source Intelligence (OSINT) web application that 
 ```bash
 git clone https://github.com/Basty-devel/FakeNewsDetect.git
 cd FakeNewsDetect
+```
 
 # 📦 Environment Variables
 
@@ -42,7 +43,7 @@ Create a `.env` file or add to platform Secrets:
 
 ```
 GEMINI_API_KEY=your_google_gemini_api_key_here
-```
+
 
 # Build the container
 docker build -t FakeNewsDetect .
